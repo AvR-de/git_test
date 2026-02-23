@@ -1,1 +1,2 @@
 TEST von idea
+TEST von konsole
